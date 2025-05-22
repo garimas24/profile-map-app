@@ -1,7 +1,7 @@
 
 # To login to Admin page:
-username: admin
-password: admin123
+username: admin \
+password: admin123 \
 vercel deployment: https://profile-map-app-iota.vercel.app/
 
 
