@@ -2,10 +2,8 @@
 # To login to Admin page:
 username: admin
 password: admin123
+vercel deployment: https://profile-map-app-iota.vercel.app/
 
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
